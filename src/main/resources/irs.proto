@@ -1,0 +1,7 @@
+
+option java_package = "com.cloudability.test.proto";
+
+message IRSRecord {
+// Populate your data elements here.
+// protoc irs.proto --java_out=../java/
+}
